@@ -14,7 +14,7 @@ export function Welcome() {
   return (
     <Layouts>
       <div class="jumbotron">
-        <h1 class="display-4">Welcome guyss</h1>
+        <h1 class="display-4">Welcome wirr</h1>
         <p class="lead">
           ini merupakan tugas ke 2 membuat auth API dan songs API dengan menggunakan Laravel & React 
         </p>
